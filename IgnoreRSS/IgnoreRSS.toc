@@ -1,0 +1,8 @@
+## Interface: 100005
+## Version: 1.0.0
+## Title: IgnoreRSS
+## SavedVariables: IgnoredPlayers
+## Notes: Ignore everyone in RSS and unignore at the end
+## Author: DrongoLightning
+
+IgnoreRSS.lua
